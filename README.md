@@ -1,1 +1,1 @@
-# desafio-grid-css-adv
+![DesafíoGRID](./assets/img/readme/desafio.png)
